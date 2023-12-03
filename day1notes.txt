@@ -1,0 +1,9 @@
+first answer:   53940
+second answer:  53896
+actual answer:  53868
+
+Left was working fine. I had some basic logical issues with my right that lead me to either:
+1. Not consider the far right char for word numbers
+2. Not consider 1-2 far left char for word numbers
+The code here now is good. I think I sacrificed too much in the seardch of a "theoretical optimum" when I should have just done something working first.
+(What I tried might not even be optimum in the left and right == same number case!)
