@@ -1,0 +1,1 @@
+The primary difficulty here was the string manipulation really! Calculating the "game" was as easy as considering the maximum in each part.
